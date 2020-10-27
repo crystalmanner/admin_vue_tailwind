@@ -1,0 +1,1 @@
+export const TABLE_SELECTED = "TABLE_SELECTED";
